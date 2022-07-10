@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/923.841db109.chunk.js","mappings":"yHASA,UARA,WACE,OACE,oBAASA,UAAU","sources":["comp/Manager/Support.js"],"sourcesContent":["\r\nfunction Support() {\r\n  return (\r\n    <section className='dfc h-full overflow-y-hidden bg-[#f7f7f7]'>\r\n\r\n    </section>\r\n  )\r\n}\r\n\r\nexport default Support"],"names":["className"],"sourceRoot":""}

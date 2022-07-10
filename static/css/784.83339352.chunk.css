@@ -1,0 +1,2 @@
+.app-wrapper{display:grid;grid-template-areas:"h-nav h-nav" "h-sidebar h-main";grid-template-columns:210px 1fr;grid-template-rows:auto 1fr}.app-wrapper>nav{grid-area:h-nav}.app-wrapper>aside{grid-area:h-sidebar}.app-wrapper>section{grid-area:h-main}
+/*# sourceMappingURL=784.83339352.chunk.css.map*/
